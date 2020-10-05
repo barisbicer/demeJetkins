@@ -18,6 +18,7 @@ public class DemeJetkinsApplication {
 		
 		logger.info("Application started.......");
 		System.out.println("new test");
+		System.out.println("new test222");
 	}
 
 	public static void main(String[] args) {
