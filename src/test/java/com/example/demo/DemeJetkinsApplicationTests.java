@@ -10,8 +10,7 @@ class DemeJetkinsApplicationTests {
 
 	
 	public static Logger logger =org.slf4j.LoggerFactory.getLogger(DemeJetkinsApplicationTests.class);
-	
-	
+		
 	@Test
 	void contextLoads() {
 	
